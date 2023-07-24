@@ -5,7 +5,6 @@
 <p align="center">Made with ♥ by <a href="https://zeon.studio/"> Zeon Studio</a></p>
 <p align=center> If you find this project useful, please give it a ⭐ to show your support. </p>
 
-
 <h2 align="center"> <a target="_blank" href="https://hugoplate.netlify.app/" rel="nofollow">👀 Demo</a> | <a  target="_blank" href="https://pagespeed.web.dev/analysis/https-hugoplate-netlify-app/6lyxjw6t4r?form_factor=desktop">Page Speed (95+)🚀</a>
 </h2>
 
@@ -86,10 +85,9 @@ First you need to `clone` or `download` the template repository, and then let's 
 
 To start using this template, you need to have some prerequisites installed on your machine.
 
-- Hugo Extended v0.115+
-- Node v18+
-- Npm v9.5+
-- Go v1.20+
+- [Hugo Extended v0.115+](https://gohugo.io/installation/)
+- [Node v18+](https://nodejs.org/en/download/)
+- [Go v1.20+](https://go.dev/doc/install)
 
 ### 👉 Project Setup
 
@@ -155,9 +153,9 @@ To build your project locally, you can use the following command. It will purge 
 npm run build
 ```
 
-### 👉 Deploy Process
+### 👉 Deploy Site
 
-We have provided 5 different platform deploy platform configuration with this template, so you can deploy easily.
+We have provided 5 different deploy platform configurations with this template, so you can deploy easily.
 
 - [Netlify](https://www.netlify.com/)
 - [Vercel](https://vercel.com/)
